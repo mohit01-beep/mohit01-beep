@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**mohit01-beep/mohit01-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...some small web projects using HTML, CSS and JS
 - 🌱 I’m currently learning ...JAVA, HTML, CSS and JS
 - 👯 I’m looking to collaborate on ...Open Source Projects and Hackathons
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohit01-beep&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
