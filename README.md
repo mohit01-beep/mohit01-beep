@@ -3,7 +3,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/mohit01-beep/mohit01-beep?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 <br />
-### Glad to see you here! 🤩 &nbsp;
+-Glad to see you here! 🤩 &nbsp;
 - 🔭 I’m currently working on ...some small web projects using HTML, CSS and JS
 - 🌱 I’m currently learning ...JAVA, HTML, CSS and JS
 - 👯 I’m looking to collaborate on ...Open Source Projects and Hackathons
