@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=mohit01-beep&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/mohit01-beep/mohit01-beep?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 - 🔭 I’m currently working on ...some small web projects using HTML, CSS and JS
 - 🌱 I’m currently learning ...JAVA, HTML, CSS and JS
