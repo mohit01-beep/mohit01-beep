@@ -36,4 +36,4 @@
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit01-beep&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
 ### registered for local hack day 1st time. Hacking begins.
 
-[![@parkourguy's Holopin board](https://holopin.io/api/user/board?user=parkourguy)](https://holopin.io/@parkourguy)
+[![@parkourguy's Holopin board](https://holopin.io/api/user/board?user=parkourguy)](https://holopin.io/@parkourguy1)
